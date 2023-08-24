@@ -16,9 +16,12 @@
 **😄Pronouns** : She/Her
 # My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,git,nodejs)](https://skillicons.dev)
-
-
 <a href = "https://www.linkedin.com/in/sravya-nalanagula-743961200/">Linkedin</a>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mystique-sravya&theme=dark)](https://git.io/streak-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
