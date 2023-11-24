@@ -1,3 +1,7 @@
+![github-header-image](https://github.com/mystique-sravya/mystique-sravya/assets/75165959/35c9d485-160e-4e87-a2a6-6fcc1af12b42)
+
+
+
 # Hello, Everyone!
 👋  I'm Nalanagula Sravya, a passionate Full Stack Development Trainee and AI/ML enthusiast.
 
