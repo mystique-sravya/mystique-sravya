@@ -18,9 +18,17 @@
 📚 Let's connect and grow together in the world of coding and tech!
 
 **😄Pronouns** : She/Her
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sravya-nalanagula-743961200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sravya nalanagula" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mystique-sravya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mystique-sravya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sravyanalanagul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sravyanalanagul1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sravya_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravya_2003" height="30" width="40" /></a>
+</p>
+
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,git,nodejs)](https://skillicons.dev)
-<a href = "https://www.linkedin.com/in/sravya-nalanagula-743961200/">Linkedin</a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,sqlite,python,git,aws)](https://skillicons.dev)
 
 ---
 
