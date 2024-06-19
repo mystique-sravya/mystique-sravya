@@ -1,23 +1,22 @@
-![github-header-image](https://github.com/mystique-sravya/mystique-sravya/assets/75165959/35c9d485-160e-4e87-a2a6-6fcc1af12b42)
+![Red Minimal Talk About Marketing LinkedIn Banner](https://github.com/mystique-sravya/mystique-sravya/assets/75165959/2e8517ee-5106-4390-ac44-519e94c27ac1)
 
 
 
-# Hello, Everyone!
-👋  I'm Nalanagula Sravya, a passionate Full Stack Development Trainee and AI/ML enthusiast.
+## About Me
+Hello! I'm Nalanagula Sravya, a Computer Science and Engineering graduate specializing in Data Science. 
+I have a strong passion for data analysis and a solid foundation in SQL and Power BI. 
+I also have interest towards cloud computing.
+Always eager to learn something new to enhance my skills and add value to the data.
 
-🚀 I love to design, whether it's crafting stunning web designs or creating eye-catching logos.
 
-🌐 Currently pursuing my B.Tech and exploring the exciting world of technology.
+- 🌍 Based in: Visakhapatnam
+- 😄 Pronouns: She/Her
 
-🧠 Enthusiastic about Artificial Intelligence and Machine Learning applications.
+## Skills
+- **Languages**: Python, SQL
+- **Tools**: Power BI, Excel
 
-💻 Always eager to learn new technologies and coding practices to level up my skills.
 
-🎨 In my free time, you can find me indulging in my hobbies: drawing and reading web-toons or story books.
-
-📚 Let's connect and grow together in the world of coding and tech!
-
-**😄Pronouns** : She/Her
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -28,7 +27,7 @@
 </p>
 
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,sqlite,python,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,sqlite,python,git,aws)](https://skillicons.dev)
 
 ---
 
